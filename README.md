@@ -1,7 +1,7 @@
 ## mnd-multiobject-detection
 ## 🧠 Facial Landmark Detection for MND Research (Inspired by Rob Burrow Centre)
 
-This project is an early-stage exploration into how machine learning and computer vision might assist in the **early detection of Motor Neurone Disease (MND)** — specifically through **facial landmark analysis**. Inspired by research from the Rob Burrow Centre, it combines technical learning with a personal interest in healthcare innovation. It applies object detection, tracking and semantic segmentation techniques on medical-style image and video data,
+This project is an early-stage exploration into how machine learning and computer vision might assist in the **early detection of Motor Neurone Disease (MND)** — specifically through **facial landmark analysis**. Inspired by research from the Rob Burrow Centre, it combines technical learning with a personal interest in healthcare innovation. It applies object detection, tracking and semantic segmentation techniques on clinical imagery data.
 
 
 ## ✅ Part 1: Image Preprocessing Pipeline
